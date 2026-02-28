@@ -19,7 +19,7 @@ int main()
 
 	std::cout << std::setw(3) << "===SUMA DE FILAS===" << std::endl;
 	   for (int i = 0; i < MAX_ROWS; i++) {
-	   std::cout << "SUMA DE FILA " << i+1 << "[" << j << "]" << "[" << i << "] = " << sumaFilas[i] << std::endl;
+	   std::cout << "SUMA DE FILA " << i+1 << " = " << sumaFilas[i] << std::endl;
 	  
 		}
 	
@@ -27,7 +27,7 @@ int main()
 
 		std::cout << std::setw(3) << "===SUMA DE COLUMNAS===" << std::endl;
 		for (int i = 0; i < MAX_ROWS; i++) {
-	    std::cout << "SUMA DE COLUMNA " << i+1 << "[" << i << "]" << "[" << j << "] = " << sumaColumnas[i] << std::endl;
+	    std::cout << "SUMA DE COLUMNA " << i+1 << " = " << sumaColumnas[i] << std::endl;
 	
 			}
 		
