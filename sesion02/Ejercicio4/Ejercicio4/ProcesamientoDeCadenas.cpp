@@ -31,5 +31,6 @@ std::string convertirMayusculas(std::string name) {
 	return name;
 }
 	int obtenerLongitud(std::string name) {
-		return name.length(); // Devuelve la longitud del nombre completo utilizando la función length() de la clase string
+		name.erase(remove(name.begin(), name.end(), ' '), name.end());
+		return name.length();
 	}
