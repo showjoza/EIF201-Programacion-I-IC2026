@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|solutionrelative:RegistroVehiculos\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\RegistroVehiculos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|solutionrelative:RegistroVehiculos\\RegistroVehiculos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|solutionrelative:RegistroVehiculos\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Flota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|solutionrelative:RegistroVehiculos\\Flota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Flota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69F90774-6FF5-4F15-8DAB-BE4D748D8BFA}|RegistroVehiculos\\RegistroVehiculos.vcxproj|solutionrelative:RegistroVehiculos\\Flota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flota.h",
+              "DocumentMoniker": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Flota.h",
+              "RelativeDocumentMoniker": "RegistroVehiculos\\Flota.h",
+              "ToolTip": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Flota.h",
+              "RelativeToolTip": "RegistroVehiculos\\Flota.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T04:24:30.489Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flota.cpp",
+              "DocumentMoniker": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Flota.cpp",
+              "RelativeDocumentMoniker": "RegistroVehiculos\\Flota.cpp",
+              "ToolTip": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Flota.cpp",
+              "RelativeToolTip": "RegistroVehiculos\\Flota.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T04:37:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cpp",
+              "DocumentMoniker": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Vehiculo.cpp",
+              "RelativeDocumentMoniker": "RegistroVehiculos\\Vehiculo.cpp",
+              "ToolTip": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Vehiculo.cpp",
+              "RelativeToolTip": "RegistroVehiculos\\Vehiculo.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T03:24:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.h",
+              "DocumentMoniker": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Vehiculo.h",
+              "RelativeDocumentMoniker": "RegistroVehiculos\\Vehiculo.h",
+              "ToolTip": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\Vehiculo.h",
+              "RelativeToolTip": "RegistroVehiculos\\Vehiculo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T02:47:19.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroVehiculos.cpp",
+              "DocumentMoniker": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\RegistroVehiculos.cpp",
+              "RelativeDocumentMoniker": "RegistroVehiculos\\RegistroVehiculos.cpp",
+              "ToolTip": "C:\\Users\\minis\\Documents\\EIF201-Programacion-I-IC2026\\sesion03\\Lab3_S03_Joshua_Registro_De_Vehiculos\\RegistroVehiculos\\RegistroVehiculos\\RegistroVehiculos.cpp",
+              "RelativeToolTip": "RegistroVehiculos\\RegistroVehiculos.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T02:04:11.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
